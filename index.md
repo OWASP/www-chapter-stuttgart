@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Stuttgart
 tags: example-tag
 region: Europe
+country: Germany
 meetup-group:
 
 ---
