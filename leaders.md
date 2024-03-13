@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sven Strittmatter](mailto:sven.strittmatter@owasp.org)
+* [Johannes Merkert](mailto:johannes.merkert@owasp.org)
