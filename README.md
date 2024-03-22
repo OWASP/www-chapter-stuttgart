@@ -6,7 +6,7 @@ OWASP Stuttgart Chapter page GitHub repo. Visit the actual page here: <https://o
 
 - [ ] Finalize `index.md`
 - [ ] Finalize `info.md`
-- [ ] Finalize `leaders.md`
+- [x] Finalize `leaders.md`
 - [ ] Add Meetup
 
 ## Documentation
