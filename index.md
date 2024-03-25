@@ -24,7 +24,7 @@ Check out our [Upcoming Events](https://www.meetup.com/de-DE/OWASP-Stuttgart/eve
 
 We will be running quarterly chapter meetups with the option to have additional events such as hands-on workshops. 
 
-The dates will be picked randomly to avoid recurring conflicts with other events (meetups, private obligations, holiday etc.). Typically, we chose a day from Tuesday to Thursday in the week, since our experience in organizing events is, that Mondays and Fridays have a very high no-show rate 😬
+The dates will be picked randomly to avoid recurring conflicts with other events (meetups, private obligations, holiday etc.). Typically, we choose a day from Tuesday to Thursday for our events, as our experience in organizing them has shown that Mondays and Fridays often have a very high no-show rate. 😬
 
 Typically, the event starts at 18:00 with arriving and socialising. Starting at 18:30 with the talk of our guest speaker or whatever we've planned for the particular event.
 
