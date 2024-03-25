@@ -26,7 +26,7 @@ We will be running quarterly chapter meetups with the option to have additional 
 
 The dates will be picked randomly to avoid recurring conflicts with other events (meetups, private obligations, holiday etc.). Typically, we choose a day from Tuesday to Thursday for our events, as our experience in organizing them has shown that Mondays and Fridays often have a very high no-show rate. 😬
 
-Typically, the event starts at 18:00 with arriving and socialising. Starting at 18:30 with the talk of our guest speaker or whatever we've planned for the particular event.
+Events usually start at 18:00 with guests arriving and socialising. By 18:30, we proceed with the talk from our guest speaker or dive into the planned activities for the evening.
 
 ### Where?
 
