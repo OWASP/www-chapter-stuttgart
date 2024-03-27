@@ -1,11 +1,14 @@
 ---
+
 layout: col-sidebar
 title: OWASP Stuttgart
 tags: germany stuttgart
 region: Europe
 country: Germany
 meetup-group:
+
 ---
+
 ## Welcome
 
 Welcome to _OWASP Stuttgart Chapter_, a regional city chapter within [OWASP Germany](https://owasp.org/www-chapter-germany/). Our Chapter serves southern Germany particular within the Swabia region as a platform to discuss and share topics all around information and application security.
@@ -30,7 +33,7 @@ Events usually start at 18:00 with guests arriving and socialising. By 18:30, we
 
 ### Where?
 
-All our upcoming events are announced on Meetup: [Meetup](http://www.meetup.com/OWASP-Stuttgart). 
+All our upcoming events are announced on Meetup:
 
 ## Organization
 
@@ -41,3 +44,7 @@ All our upcoming events are announced on Meetup: [Meetup](http://www.meetup.com/
 ### Etiquette
 
 Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also, please ensure to remove your company logos from all but one "marketing" slide.
+
+
+
+
