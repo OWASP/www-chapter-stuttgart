@@ -20,4 +20,4 @@
 
 * [Page Repo](https://github.com/OWASP/www-chapter-stuttgart)
 
-[meetup]:   https://www.meetup.com/de-DE/owasp-stuttgart-chapter/
+[meetup]:   https://www.meetup.com/owasp-stuttgart-chapter/
