@@ -19,7 +19,7 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 
 ## Upcoming Events
 
-Check out our [Upcoming Events](https://www.meetup.com/de-DE/OWASP-Stuttgart/events/)
+Check out our [Upcoming Events](https://www.meetup.com/owasp-stuttgart-chapter/events/)
 
 ## Information about Stuttgart Chapter Events
 
