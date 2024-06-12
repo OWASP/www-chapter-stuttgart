@@ -7,6 +7,7 @@
 ### Social Links
 
 * [Meetup.com][meetup]
+* [Slack][slack]
 
 ### General Information
 * 
@@ -21,3 +22,4 @@
 * [Page Repo](https://github.com/OWASP/www-chapter-stuttgart)
 
 [meetup]:   https://www.meetup.com/owasp-stuttgart-chapter/
+[slack]:    https://owasp.slack.com/archives/C06GVF0P34Z

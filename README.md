@@ -2,14 +2,6 @@
 
 OWASP Stuttgart Chapter page GitHub repo. Visit the actual page here: <https://owasp.org/www-chapter-stuttgart>.
 
-## Todos
-
-- [x] Finalize `index.md`
-- [x] Finalize `info.md`
-- [x] Finalize `leaders.md`
-- [x] Add Meetup
-- [ ] Make Chapter Logo
-
 ## Documentation
 
 - [Website Migration Information and Tutorial](https://owasp.org/migration/)
