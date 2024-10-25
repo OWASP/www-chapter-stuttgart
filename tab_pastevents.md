@@ -13,6 +13,7 @@ level: 2
 
 An overview of our past Stuttgart Chapter:
 
+- 8.102024: [Evolution of AppSec](assets/slides/2024-10-08_Evolution_of_AppSec.pdf) with [Jeff Williams](https://www.linkedin.com/in/planetlevel/) from [Contrast Security](https://www.contrastsecurity.com/).
 - 17.9.2024: [OWASP SAMM – Software Assurance Maturity Model](assets/slides/2024-09-17_OWASP-SAMM_-_Software_Assurance_Maturity_Model.pdf) with [Mathias Conradt](https://www.linkedin.com/in/mathiasconradt/) from [Snyk](https://snyk.io/).
 - 6.6.2024: [OWASP® and beyond - much more than just OWASP Top 10](assets/slides/2024-06-06_OWASP_and_beyond_-_much_more_than_just_OWASP_Top_10.pdf) with [Tobias Glemser](https://www.linkedin.com/in/tobias-glemser/) from [Secuvera](https://www.secuvera.de/).
 - 19.3.2019: [Why Are We Talking About XSS in 2019](assets/slides/2019-03-19_Why_Are_We_Talking_About–XSS_in_2019.pdf) with [Jim Manico](https://www.linkedin.com/in/jmanico/) from [Manicode](https://manicode.com/)
