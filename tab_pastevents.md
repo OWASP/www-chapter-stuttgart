@@ -13,6 +13,7 @@ level: 2
 
 An overview of our past Stuttgart Chapter:
 
+- 11.02.2025 [AI Security & Insights into OWASP Top 10 LLM](assets/slides/2025-02-11_AI_Security_And_Insights_Into_OWASP_Top_10_LLM.pdf) with [Rico Komenda](https://www.linkedin.com/in/ricokomenda/) from [adesso](https://www.adesso.de/).
 - 10.12.2024 [Exploiting deserialization vulnerabilities in recent Java versions](assets/slides/2024-12-10_Exploiting_deserialization_vulnerabilities_in_recent_Java_versions.pdf) with [Hans-Martin Münch](https://www.linkedin.com/in/hans-martin-m%C3%BCnch-885354206/) from [MOGWAI LABS](https://mogwailabs.de).
 - 8.10.2024: [Evolution of AppSec](assets/slides/2024-10-08_Evolution_of_AppSec.pdf) with [Jeff Williams](https://www.linkedin.com/in/planetlevel/) from [Contrast Security](https://www.contrastsecurity.com/).
 - 17.9.2024: [OWASP SAMM – Software Assurance Maturity Model](assets/slides/2024-09-17_OWASP-SAMM_-_Software_Assurance_Maturity_Model.pdf) with [Mathias Conradt](https://www.linkedin.com/in/mathiasconradt/) from [Snyk](https://snyk.io/).
