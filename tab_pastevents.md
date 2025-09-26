@@ -13,7 +13,8 @@ level: 2
 
 An overview of our past Stuttgart Chapter meetup talks:
 
-- 03.06.2025 [Modern Authentication Demystified - A Deep Dive into Spring Security’s Latest Innovations](assets/slides/2025-06-03_What_is_new_in_spring_security.pdf)
+- 25.09.2025 [All about MCP Security](assets/slides/2025-09-25_All_About_MCP_Security.pdf) with [Rico Komenda](https://www.linkedin.com/in/ricokomenda/) from [adesso SE](https://www.adesso.de/).
+- 03.06.2025 [Modern Authentication Demystified - A Deep Dive into Spring Security’s Latest Innovations](assets/slides/2025-06-03_What_is_new_in_spring_security.pdf) with [Andreas Falk](https://www.linkedin.com/in/andifalk/) from [CGI](https://www.cgi.com/de).
 - 01.04.2025 [Runtime Application Security meets LLMs](assets/slides/2025-04-01_Runtime_Application_Security_meets_LLMs.pdf) with [Itai Goldman](https://www.linkedin.com/in/itaigoldman/) from [Miggo](https://www.miggo.io/).
 - 11.02.2025 [AI Security & Insights into OWASP Top 10 LLM](assets/slides/2025-02-11_AI_Security_And_Insights_Into_OWASP_Top_10_LLM.pdf) with [Rico Komenda](https://www.linkedin.com/in/ricokomenda/) from [adesso](https://www.adesso.de/).
 - 10.12.2024 [Exploiting deserialization vulnerabilities in recent Java versions](assets/slides/2024-12-10_Exploiting_deserialization_vulnerabilities_in_recent_Java_versions.pdf) with [Hans-Martin Münch](https://www.linkedin.com/in/hans-martin-m%C3%BCnch-885354206/) from [MOGWAI LABS](https://mogwailabs.de).
