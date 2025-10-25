@@ -1,0 +1,25 @@
+leaders:
+  - name: Sven Strittmatter (aka. Weltraumschaf)
+    email: sven.strittmatter@owasp.org
+    github: Weltraumschaf
+  - name: Johannes Merkert
+    email: johannes.merkert@owasp.org
+    github: jme-iteratec
+location:
+  country: Germany
+  country_code: DE
+  region: Baden-Württemberg
+  city: Stuttgart
+  latitude: 48.7784485
+  longitude: 9.1800132
+meetup_group: owasp-stuttgart-chapter
+name: OWASP Stuttgart
+repositories:
+  - name: www-chapter-stuttgart
+    url: https://github.com/OWASP/www-chapter-stuttgart
+    description: OWASP Foundation Web Repository
+tags:
+  - germany
+  - stuttgart
+  - custom-tag-1
+website: https://owasp.org/www-chapter-stuttgart
