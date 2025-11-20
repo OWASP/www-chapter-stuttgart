@@ -13,6 +13,7 @@ level: 2
 
 An overview of our past Stuttgart Chapter meetup talks:
 
+- 19.09.2025 [From Protocol to Practice - Secure and Responsible MCP Server Operations](assets/slides/2025-11-19_From-Protocol-to-Practice-Secure-and-Responsible-MCP-Server-Operations.pdf) with [Jan Kaupe](https://github.com/Morodar) from [iteratec GmbH](https://www.iteratec.com).
 - 25.09.2025 [All about MCP Security](assets/slides/2025-09-25_All_About_MCP_Security.pdf) with [Rico Komenda](https://www.linkedin.com/in/ricokomenda/) from [adesso SE](https://www.adesso.de/).
 - 03.06.2025 [Modern Authentication Demystified - A Deep Dive into Spring Security’s Latest Innovations](assets/slides/2025-06-03_What_is_new_in_spring_security.pdf) with [Andreas Falk](https://www.linkedin.com/in/andifalk/) from [CGI](https://www.cgi.com/de).
 - 01.04.2025 [Runtime Application Security meets LLMs](assets/slides/2025-04-01_Runtime_Application_Security_meets_LLMs.pdf) with [Itai Goldman](https://www.linkedin.com/in/itaigoldman/) from [Miggo](https://www.miggo.io/).
