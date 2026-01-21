@@ -16,12 +16,13 @@ Anyone interested and enthusiastic about application security is welcome. All me
 Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
 ## Upcoming Events
-11.02.2026, 18:00 Automating Open Source Compliance and Security: From Pain to Process with [Marco Berger](https://www.linkedin.com/in/marco-berger) (Stammtisch)
-07.03.2026, 10:00 Get ready for the EU CRA with OWASP SAMM with [Nariman Aga-Tagiyev](https://www.linkedin.com/in/aganariman/) (Full-day workshop)
-14.04.2026, 18:00 tbd (Stammtisch)
-18.06.2026, 18:00 tbd (Stammtisch)
-30.09.2026, 18:00 tbd (Stammtisch)
-17.11.2026, 18:00 tbd (Stammtisch)
+
+- 11.02.2026, 18:00 Automating Open Source Compliance and Security: From Pain to Process with [Marco Berger](https://www.linkedin.com/in/marco-berger) (Stammtisch)
+- 07.03.2026, 10:00 Get ready for the EU CRA with OWASP SAMM with [Nariman Aga-Tagiyev](https://www.linkedin.com/in/aganariman/) (Full-day workshop)
+- 14.04.2026, 18:00 tbd (Stammtisch)
+- 18.06.2026, 18:00 tbd (Stammtisch)
+- 30.09.2026, 18:00 tbd (Stammtisch)
+- 17.11.2026, 18:00 tbd (Stammtisch)
 
 Check out the details on [Upcoming Events][meetup].
 
