@@ -16,6 +16,7 @@ Anyone interested and enthusiastic about application security is welcome. All me
 Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
 ## Upcoming Events
+<<<<<<< Updated upstream
 
 - 11.02.2026, 18:00 Automating Open Source Compliance and Security: From Pain to Process with [Marco Berger](https://www.linkedin.com/in/marco-berger) (Stammtisch)
 - 07.03.2026, 10:00 Get ready for the EU CRA with OWASP SAMM with [Nariman Aga-Tagiyev](https://www.linkedin.com/in/aganariman/) (Full-day workshop)
@@ -23,14 +24,22 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 - 18.06.2026, 18:00 tbd (Stammtisch)
 - 30.09.2026, 18:00 tbd (Stammtisch)
 - 17.11.2026, 18:00 tbd (Stammtisch)
+=======
+11.02.2026, 18:00 [Automating Open Source Compliance and Security: From Pain to Process](https://www.linkedin.com/events/7422389201029148672/) with [Marco Berger](https://www.linkedin.com/in/marco-berger) (Stammtisch)
+07.03.2026, 10:00 [Get ready for the EU CRA with OWASP SAMM](https://www.linkedin.com/events/7425144029685751808/) (Full-day workshop)
+14.04.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425445519407112192/) (Stammtisch)
+18.06.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425446697155334146/) (Stammtisch)
+30.09.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425448530909163521/) (Stammtisch)
+17.11.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425449187019870208/) (Stammtisch)
+>>>>>>> Stashed changes
 
-Check out the details on [Upcoming Events][meetup].
+Please sign up via the LinkedIn Event!
 
 ## Information about Stuttgart Chapter Events
 
 ### When?
 
-We will be running quarterly chapter meetups with the option to have additional events such as hands-on workshops. 
+We will be running quarterly chapter meetups with the option to have additional events such as hands-on workshops.
 
 The dates will be picked randomly to avoid recurring conflicts with other events (meetups, private obligations, holiday etc.). Typically, we choose a day from Tuesday to Thursday for our events, as our experience in organizing them has shown that Mondays and Fridays often have a very high no-show rate. 😬
 
@@ -38,7 +47,7 @@ Events usually start at 18:00 with guests arriving and socialising. By 18:30, we
 
 ### Where?
 
-All our upcoming events are announced on Meetup: [Meetup][meetup].
+All our upcoming events are announced on the OWASP Stuttgart Chapter Linkedin page: [Linkedin][linkedin].
 
 ## Organization
 
@@ -50,4 +59,4 @@ All our upcoming events are announced on Meetup: [Meetup][meetup].
 
 Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also, please ensure to remove your company logos from all but one "marketing" slide.
 
-[meetup]:   https://www.meetup.com/de-DE/owasp-stuttgart-chapter/
+[linkedin]:   https://www.linkedin.com/company/owasp-stuttgart-chapter/
