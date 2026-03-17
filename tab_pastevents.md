@@ -13,6 +13,8 @@ level: 2
 
 An overview of our past Stuttgart Chapter meetup talks:
 
+- 07.03.2026, [Get ready for the EU CRA with OWASP SAMM](assets/slides/2026-03-07_SAMM_and_CRA_In_Practice.pdf) with [Nariman Aga-Tagiyev](https://www.linkedin.com/in/aganariman/) from [SecureHabits](https://securehabits.nl/).
+- 11.02.2026, [Automating Open Source Compliance and Security: From Pain to Process](assets/slides/2026-02-11_Automating_Open_Source_Compliance_and_Security.pdf) with [Marco Berger](https://www.linkedin.com/in/marco-berger) from [secura point](https://www.securapoint.de/).
 - 19.11.2025 [From Protocol to Practice - Secure and Responsible MCP Server Operations](assets/slides/2025-11-19_From-Protocol-to-Practice-Secure-and-Responsible-MCP-Server-Operations.pdf) with [Jan Kaupe](https://github.com/Morodar) from [iteratec GmbH](https://www.iteratec.com).
 - 25.09.2025 [All about MCP Security](assets/slides/2025-09-25_All_About_MCP_Security.pdf) with [Rico Komenda](https://www.linkedin.com/in/ricokomenda/) from [adesso SE](https://www.adesso.de/).
 - 03.06.2025 [Modern Authentication Demystified - A Deep Dive into Spring Security’s Latest Innovations](assets/slides/2025-06-03_What_is_new_in_spring_security.pdf) with [Andreas Falk](https://www.linkedin.com/in/andifalk/) from [CGI](https://www.cgi.com/de).
