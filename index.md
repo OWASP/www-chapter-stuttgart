@@ -17,7 +17,6 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 
 ## Upcoming Events
 
-- 14.04.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425445519407112192/) (Stammtisch)
 - 18.06.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425446697155334146/) (Stammtisch)
 - 30.09.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425448530909163521/) (Stammtisch)
 - 17.11.2026, 18:00 [Topic tbd](https://www.linkedin.com/events/7425449187019870208/) (Stammtisch)
