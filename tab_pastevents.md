@@ -13,6 +13,7 @@ level: 2
 
 An overview of our past Stuttgart Chapter meetup talks:
 
+- 14.04.2026, [How Latest Browser Security Features Eliminate Bug Classes](assets/slides/2026-04-14_How_Latest_Browser_Security_Features_Eliminate_Bug_Classes.pdf) with [Javan Rasokat](https://www.linkedin.com/in/javan-rasokat/) from [Sage](https://www.sage.com).
 - 07.03.2026, [Get ready for the EU CRA with OWASP SAMM](assets/slides/2026-03-07_SAMM_and_CRA_In_Practice.pdf) (all workshop material in [Google Drive](https://drive.google.com/drive/folders/1Grxt50sKkqEI0EcK-N8NVX-I7Vo-OoDZ)) with [Nariman Aga-Tagiyev](https://www.linkedin.com/in/aganariman/) from [SecureHabits](https://securehabits.nl/).
 - 11.02.2026, [Automating Open Source Compliance and Security: From Pain to Process](assets/slides/2026-02-11_Automating_Open_Source_Compliance_and_Security.pdf) with [Marco Berger](https://www.linkedin.com/in/marco-berger) from [secura point](https://www.securapoint.de/).
 - 19.11.2025 [From Protocol to Practice - Secure and Responsible MCP Server Operations](assets/slides/2025-11-19_From-Protocol-to-Practice-Secure-and-Responsible-MCP-Server-Operations.pdf) with [Jan Kaupe](https://github.com/Morodar) from [iteratec GmbH](https://www.iteratec.com).
